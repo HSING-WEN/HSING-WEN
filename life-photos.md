@@ -22,7 +22,7 @@ A glimpse into my journey, from academics to travel and friendships! 🎉
 ---
 
 ### 🍜 **Food & Friends**
-![Dinner](8EF8DD6C-8FA5-458E-BC62-E3E7FFC6B5FD.jpg)
+![Dinner](1C97DDC7-6DA8-42D0-A9FF-ED80C2DCCEA0.jpg)
 📌 **Memorable moments with friends!**  
 - 🥘 Cooking together in the student dormitory  
 - 🎉 Engaging in cultural activities and social gatherings  
