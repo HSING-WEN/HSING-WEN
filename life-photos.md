@@ -14,7 +14,7 @@ A glimpse into my journey, from academics to travel and friendships! 🎉
 
 ### 🇦🇺 **Overseas Study Experience in Australia**
 <img src="S__71811074.jpg" width="50%">
-<img src="S__71811074.jpg" width="50%">
+<img src="A109614F-FA57-45EA-AC4D-C79A2A2A56A5.jpg" width="50%">
 
 📌 **My unforgettable study experience in Australia!**  
 - 🏡 Attended a **six-week language school program** to enhance my English skills
