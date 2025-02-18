@@ -5,8 +5,9 @@
 A glimpse into my journey, from academics to travel and friendships! 🎉
 
 ### 🎓 **University Life**
-![Study Time](https://raw.githubusercontent.com/your-username/your-repo/main/photos/study.jpg)
-📌 **My academic journey at National Tsing Hua University!**  
+ <img src="S__71819267.jpg" width="50%">  
+ 
+ 📌 **My academic journey at National Tsing Hua University!**  
 - 📖 Passionate about **finance, data analysis, and quantitative research**  
 - 🎯 Engaged in multiple research projects and student organizations  
 
