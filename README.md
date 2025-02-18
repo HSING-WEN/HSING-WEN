@@ -50,7 +50,7 @@
 ---
 ## 📸 Life & Photos
 🔗 [Explore My Life & Photos](life-photos.md)
-
+---
 
 📌 **© 2024 Novia Tsai**  
 🌐 Powered by [GitHub Pages](https://pages.github.com/) 🚀
