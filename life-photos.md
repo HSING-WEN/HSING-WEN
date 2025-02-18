@@ -22,7 +22,7 @@ A glimpse into my journey, from academics to travel and friendships! 🎉
 ---
 
 ### 🍜 **Food & Friends**
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/photos/dinner.jpg" width="50%">
+<img 1C97DDC7-6DA8-42D0-A9FF-ED80C2DCCEA0.jpg>
 
 📌 **Memorable moments with friends!**  
 - 🥘 Cooking together in the student dormitory  
