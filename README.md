@@ -48,6 +48,8 @@
 - [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:xin.wen930609@gmail.com)
 
 ---
+![Novia's Photo](https://raw.githubusercontent.com/HSING-WEN/HSING-WEN.github.io/main/novia.jpg)
+
 
 📌 **© 2024 Novia Tsai**  
 🌐 Powered by [GitHub Pages](https://pages.github.com/) 🚀
