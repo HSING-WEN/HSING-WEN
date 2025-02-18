@@ -48,7 +48,7 @@
 - [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:xin.wen930609@gmail.com)
 
 ---
-![Novia's photo](https://1C97DDC7-6DA8-42D0-A9FF-ED80C2DCCEA0.jpg/HSING-WEN/HSING-WEN.github.io/main/novia.jpg)
+![Novia's photo]()
 
 
 📌 **© 2024 Novia Tsai**  
