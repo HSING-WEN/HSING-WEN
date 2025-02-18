@@ -13,11 +13,11 @@ A glimpse into my journey, from academics to travel and friendships! 🎉
 ---
 
 ### 🇦🇺 **Overseas Study Experience in Australia**
-![Australia](https://raw.githubusercontent.com/your-username/your-repo/main/photos/australia.jpg)
+<img src="S__71811074.jpg" width="50%">
 📌 **My unforgettable study experience in Australia!**  
-- 🏫 Attended a **six-week language school program** to enhance my English skills  
-- 🌏 Immersed in a multicultural environment, engaging with students from diverse backgrounds  
-- ✈️ Explored **Sydney, Melbourne, and Brisbane**, gaining valuable global perspectives  
+- 🏫 Attended a **six-week language school program** to enhance my English skills    
+- 🌏 Immersed in a multicultural environment, engaging with students from diverse backgrounds    
+- ✈️ Explored **Sydney, Melbourne, and Brisbane**, gaining valuable global perspectives    
 
 ---
 
